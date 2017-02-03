@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UnameCorporation</string>
+    <string name="minimum_password">Senha curta, minimo 6 caracteres!</string>
+    <string name="auth_failed">Falha no Login, Verifique os dados informado!</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Senha</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_login">Já tem uma conta. Faça o Login !!</string>
+    <string name="btn_sign_out">Sair</string>
+    <string name="btn_sign_up">Registrar !!</string>
+    <string name="err_msg_email">Entre com um endereço de email válido.</string>
+    <string name="err_msg_required">Obrigatório !!!</string>
+    <string name="err_msg_password">Entre com uma senha válida, minimo 6 caracteres.</string>
+    <string name="btn_link_to_signup">Não tem uma conta, Registre-se !!!</string>
+</resources>
